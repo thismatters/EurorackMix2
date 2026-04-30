@@ -1,0 +1,7 @@
+"#","Reference","Qty","Value","Footprint","DNP","Vendor","PartNum"
+"1","C1, C2","2","22u 50V","Capacitor_THT:CP_Radial_D5.0mm_P2.50mm","","",""
+"2","D1, D2","2","BAT54S","Package_TO_SOT_SMD:SOT-23","","Mouser","863-BAT54SLT1G"
+"3","J1","1","Conn_02x05_Odd_Even","Eurorack:PinHeader_2x05_P2.54mm_Vertical","","Tayda","A-2939"
+"4","M1, M2","2","Standoff","Eurorack:Standoff_M2.5x0.45-11mm","","Digikey","732-10549-ND"
+"5","M3, M4, M5, M6","4","Screw","Eurorack:Screw_M2.5x0.45-6mm","","Digikey","36-29301-ND"
+"6","R1, R2","2","10","Resistor_SMD:R_0805_2012Metric","","",""

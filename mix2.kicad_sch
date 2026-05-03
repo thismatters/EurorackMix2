@@ -2822,7 +2822,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 149.86) (xy 219.71 149.86)
+			(xy 213.36 149.86) (xy 219.71 149.86)
 		)
 		(stroke
 			(width 0)
@@ -2892,7 +2892,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 134.62) (xy 215.9 138.43)
+			(xy 213.36 134.62) (xy 213.36 138.43)
 		)
 		(stroke
 			(width 0)
@@ -2902,7 +2902,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 146.05) (xy 215.9 149.86)
+			(xy 213.36 146.05) (xy 213.36 149.86)
 		)
 		(stroke
 			(width 0)
@@ -3232,7 +3232,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 134.62) (xy 215.9 134.62)
+			(xy 219.71 134.62) (xy 213.36 134.62)
 		)
 		(stroke
 			(width 0)
@@ -3950,7 +3950,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 215.9 142.24 0)
+		(at 213.36 142.24 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3961,7 +3961,7 @@
 		(fields_autoplaced yes)
 		(uuid "3c6d8bf3-5af5-471b-8f26-609fcd0821e9")
 		(property "Reference" "C3"
-			(at 219.71 140.9699 0)
+			(at 217.17 140.9699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3971,8 +3971,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 219.71 143.5099 0)
+		(property "Value" "100n"
+			(at 217.17 143.5099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3983,7 +3983,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 216.8652 146.05 0)
+			(at 214.3252 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3994,7 +3994,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 215.9 142.24 0)
+			(at 213.36 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4005,7 +4005,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 215.9 142.24 0)
+			(at 213.36 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4638,7 +4638,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "lvl3"
+		(property "Value" "lvl 4"
 			(at 60.96 193.0399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5513,7 +5513,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "lvl1"
+		(property "Value" "lvl 2"
 			(at 60.96 177.7999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5626,6 +5626,28 @@
 			)
 		)
 		(property "Description" "Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"
+			(at 227.33 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Vendor" "Mouser"
+			(at 227.33 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNum" "595-TL072CDR"
 			(at 227.33 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -7208,7 +7230,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "lvl0"
+		(property "Value" "lvl 1"
 			(at 60.96 170.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7320,6 +7342,28 @@
 			)
 		)
 		(property "Description" "Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"
+			(at 90.17 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Vendor" "Mouser"
+			(at 90.17 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNum" "595-TL072CDR"
 			(at 90.17 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -7508,6 +7552,28 @@
 				)
 			)
 		)
+		(property "Vendor" "Mouser"
+			(at 113.03 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNum" "595-TL072CDR"
+			(at 113.03 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "574a339c-6ffb-4150-ada6-a5aed30ee3b0")
 		)
@@ -7644,7 +7710,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "lvl2"
+		(property "Value" "lvl 3"
 			(at 60.96 185.4199 0)
 			(show_name no)
 			(do_not_autoplace no)

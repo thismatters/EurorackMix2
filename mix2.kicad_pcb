@@ -550,6 +550,32 @@
 				)
 			)
 		)
+		(property "Vendor" "Mouser"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cc84dfde-406c-4908-9f26-2db18df0189d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PartNum" "595-TL072CDR"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fc31d105-f435-41cd-9581-c3a3e853ef3e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*")
 		(path "/d56b77fd-73e8-406b-af70-d831876122e2")
 		(sheetname "/")
@@ -5806,7 +5832,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "d13546c9-7308-475f-b749-5e9c94a0b2a6")

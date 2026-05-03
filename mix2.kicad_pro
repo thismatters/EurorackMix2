@@ -594,13 +594,13 @@
           "group_by": false,
           "label": "Vendor",
           "name": "Vendor",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "PartNum",
           "name": "PartNum",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
